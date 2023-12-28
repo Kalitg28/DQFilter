@@ -47,7 +47,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True)), True)
+IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True')), True)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/TamilRockerz_TR/150")
 VERIFY2_URL = environ.get('VERIFY2_URL', "tnshort.net")
 VERIFY2_API = environ.get('VERIFY2_API', "1e7d4e20e77655f3d0de914127b5310cc4f093ca")
