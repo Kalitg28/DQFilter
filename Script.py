@@ -227,14 +227,12 @@ Tamil(தமிழில்) 👇👇👇
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @TamilRockerz_TR
-=========== • ✠ • ===========</b>"""
+=========== • ✠ • ==========
+▫️ᴄʜᴀɴɴᴇʟ : @TamilRockerz_TR
+=========== • ✠ • ==========</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {query}
-IMDb Data:
-
+<b>
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
