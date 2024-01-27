@@ -226,10 +226,12 @@ Tamil(தமிழில்) 👇👇👇
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
-=========== • ✠ • ==========
-▫️ᴄʜᴀɴɴᴇʟ : @TamilRockerz_TR
-=========== • ✠ • ==========</b>"""
+<b>•────•────────•────•
+📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Movies_Request_TR)
+🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/TamilRockrz_TR)
+•────•────────•────•
+
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @TamilRockerz_TR</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>
